@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '撸撸撸云服务监控',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://status.lululucloud.xyz/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -27,12 +27,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '撸撸撸云',
+      url: 'https://lululucloud.xyz/'
     },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    }
   ]
 };
