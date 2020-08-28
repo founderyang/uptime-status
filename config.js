@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '撸撸撸云服务监控',
+  SiteName: '多美云科技服务监控',
 
   // 站点链接
   SiteUrl: 'https://status.lululucloud.top/',
@@ -23,8 +23,12 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
+        {
+      text: '多美云科技',
+      url: 'https://lululucloud.xyz/'
+    },
     {
-      text: '撸撸撸云',
+      text: '用户中心',
       url: 'https://lululucloud.top/'
     },
   ]
