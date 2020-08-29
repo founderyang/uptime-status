@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '多美云科技服务监控',
+  SiteName: '多美云加速│服务状态',
 
   // 站点链接
   SiteUrl: 'https://status.lululucloud.top/',
@@ -24,11 +24,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
         {
-      text: '多美云科技',
+      text: '多美云加速│官网',
       url: 'https://lululucloud.xyz/'
     },
     {
-      text: '用户中心',
+      text: '多美云加速│用户中心',
       url: 'https://lululucloud.top/'
     },
   ]
